@@ -1,2 +1,4 @@
 node_modules
 .vscode
+.eslintrc.json
+yarn-error.log
